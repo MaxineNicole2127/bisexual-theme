@@ -29,9 +29,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pride",
+        "label": "Bisexual",
         "uiTheme": "vs-dark",
-        "path": "./themes/Pride-color-theme.json"
+        "path": "./themes/Bisexual.json"
       }
     ]
   }
