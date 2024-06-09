@@ -3,6 +3,23 @@
   "displayName": "rainbow",
   "description": "A VSCode extension theme which makes use of multiple colors representative of the LGBTQIA+ Community this Pride Month",
   "version": "0.0.1",
+  "publisher": "MaxineNicole2127", 
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/MaxineNicole2127/bisexual-theme"
+  },
+  "keywords": [
+    "theme", 
+    "dark theme", 
+    "maxine", 
+    "bisexual", 
+    "bi", 
+    "bi theme", 
+    "pride", 
+    "bisexual theme", 
+    "lgbtqia", 
+    "lgbt"
+  ],
   "engines": {
     "vscode": "^1.90.0"
   },
